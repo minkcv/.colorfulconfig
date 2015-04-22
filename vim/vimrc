@@ -1,0 +1,14 @@
+filetype plugin indent on
+syntax enable
+set background=dark
+let base16colorspace=256
+colorscheme base16-default
+set encoding=utf-8
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set number
+"uncomment to use the shortcuts hex and nohex to turn vim into a hex editor
+"nmap :hex :%!xxd
+"nmap :nohex :%!xxd -r
