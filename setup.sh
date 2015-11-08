@@ -6,7 +6,7 @@ ln -s ~/.colorfulconfig/vim/vimrc ~/.vimrc
 ln -s ~/.colorfulconfig/i3config ~/.i3/config
 
 mkdir ~/.vim
-ln -s ~/.colofulconfig/vim/colors ~/.vim/colors
+ln -s ~/.colorfulconfig/vim/colors ~/.vim/colors
 
 mkdir ~/.tmux
 ln ~/.colorfulconfig/.tmux.config ~/.tmux/.tmux.conf
