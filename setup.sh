@@ -2,7 +2,7 @@
 
 ln -s ~/.colorfulconfig/.xinitrc ~/.xinitrc
 ln -s ~/.colorfulconfig/.Xresources ~/.Xresources
-ln -s ~/.colorfulconfig/i3config ~/.i3/config
+#ln -s ~/.colorfulconfig/i3config ~/.i3/config
 
 mkdir ~/.vim
 ln -s ~/.colorfulconfig/vim/colors ~/.vim/colors
