@@ -11,6 +11,6 @@ ln -s ~/.colorfulconfig/vim/vimrc ~/.vimrc
 mkdir ~/.tmux
 ln ~/.colorfulconfig/.tmux.config ~/.tmux/.tmux.conf
 
-echo "alias tmux='tmux -2'" >> .bashrc
+echo "alias tmux='tmux -2'" >> ~/.bashrc
 
 echo "source ~/.colorfulconfig/base16-default.dark.sh" >> ~/.bashrc
