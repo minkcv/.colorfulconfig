@@ -10,6 +10,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set number
+set nowrap
 "uncomment to use the shortcuts hex and nohex to turn vim into a hex editor
 "nmap :hex :%!xxd
 "nmap :nohex :%!xxd -r
